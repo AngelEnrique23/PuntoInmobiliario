@@ -1,2 +1,2 @@
 # PuntoInmobiliario
-Proyecto creado con NodeJS, Express, Sequelize, MySQL Basado
+Basado en una empresa de Bienes raices, este proyecto esta creado con NodeJS, Express, Sequelize, MySQL.
